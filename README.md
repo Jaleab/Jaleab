@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 # Github's stats<space><space>
 <a href="https://github.com/jaleab/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaleab" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaleab&theme=react" />
 </a>
 <a href="https://github.com/jaleab/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaleab&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaleab&layout=compact&theme=react" />
 </a>  
