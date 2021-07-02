@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Github's stats<space><space>
+<a href="https://github.com/jaleab/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaleab" />
+</a>
+<a href="https://github.com/jaleab/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaleab&layout=compact" />
+</a>  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaleab)](https://github.com/jaleab/github-readme-stats)
   
 # Github's top used languages<space><space>
