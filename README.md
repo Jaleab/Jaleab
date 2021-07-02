@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Github's stats<space><space>
-<a>
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaleab&theme=react" />
 </a>
-<a>
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaleab&layout=compact&theme=react" />
 </a>  
