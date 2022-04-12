@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 # Github's stats<space><space>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaleab&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaleab&theme=react&count_private=true" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaleab&layout=compact&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaleab&layout=compact&theme=react&count_private=true" />
 </a>  
